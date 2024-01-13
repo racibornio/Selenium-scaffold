@@ -1,0 +1,11 @@
+p[name='unikatowa nazwa znacznika'] {
+    background-color: aquamarine;
+}
+
+#to_jest_identyfikator_id_znacznika {
+    background-color: cadetblue;
+}
+
+p.akapit_dolny {
+    background-color: burlywood;
+}

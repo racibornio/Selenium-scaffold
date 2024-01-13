@@ -12,7 +12,8 @@ repositories {
 dependencies {
     testImplementation(platform("org.junit:junit-bom:5.9.1"))
     testImplementation("org.junit.jupiter:junit-jupiter")
-    testImplementation("org.seleniumhq.selenium:selenium-java:4.10.0")
+    testImplementation("org.seleniumhq.selenium:selenium-java:4.12.0")
+    testImplementation("org.assertj:assertj-core:3.25.1")
 }
 
 tasks.test {
